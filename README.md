@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Santiago! 👋
 
-<!--
-**santiagohuerdo/santiagohuerdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a highly detailed Data Analyst from Buenos Aires, Argentina, with passion for business problem solving.
 
-Here are some ideas to get you started:
+I specialize at Collecting, Analyzing, Modeling & Visualization data, to improve business operational productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my resume at www.santiagohuerdo.com 🌟
+
+### Skills I Have
+
+- Python (Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sckit-Learn, etc.)
+- SQL Server
+- Ms. Excel
+- Power BI, Tableau
+
+### Let's get in touch
+
+📩 santiagohuerdo@gmail.com
