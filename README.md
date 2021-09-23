@@ -11,7 +11,8 @@ Check out my resume at www.santiagohuerdo.com 🌟
 - Python (Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sckit-Learn, etc.)
 - SQL Server
 - Ms. Excel
-- Power BI, Tableau
+- Power BI, Tableau, Data Studio
+- Google Cloud Platform (Big Query)
 
 ### Let's get in touch
 
