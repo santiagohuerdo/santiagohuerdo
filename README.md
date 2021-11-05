@@ -1,8 +1,6 @@
 ## Hi, I'm Santiago! 👋
 
-I'm a highly detailed Data Analyst from Buenos Aires, Argentina, with passion for business problem solving.
-
-I specialize at Collecting, Analyzing, Modeling & Visualization data, to improve business operational productivity.
+Passionate about business and technology, combining the best of both worlds to create results-driven solutions that generate impact through solid quantitative data analysis, business sense and a data-driven mindset. With a personality with strong initiative, organizational, communication and teamwork skills. Supported by my knowledge in Statistics, Math’s, Programming, International Business and Economics.
 
 Check out my resume at www.santiagohuerdo.com 🌟
 
@@ -12,7 +10,7 @@ Check out my resume at www.santiagohuerdo.com 🌟
 - SQL Server
 - Ms. Excel
 - Power BI, Tableau, Data Studio
-- Google Cloud Platform (Big Query)
+- Google Cloud Platform (BigQuery)
 
 ### Let's get in touch
 
